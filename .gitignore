@@ -1,0 +1,7 @@
+**/target/
+src/main/scala/config/Params.scala
+
+*.class
+*.log
+
+.idea/*
